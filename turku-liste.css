@@ -1,0 +1,43 @@
+.liste{
+	display: flex;
+	color: rgb(172, 27, 201);
+	
+}
+.liste li{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h2{
+	margin-left: auto;
+	margin-right: auto;
+}	
+
+a:link {
+	color: red;
+  } 
+  
+  
+  /* mouse over link */
+  a:hover {
+	color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+	color: blue;
+  }
+
+.list{
+	width: 300px;
+	padding: 0px;
+	margin:0px 20px ;
+	border: 1px solid rgb(99, 96, 96);
+}
+
+.list li{
+	
+	list-style: none;
+	background: #eee;
+	border-top: 1px solid #ccc;
+}

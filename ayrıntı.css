@@ -1,0 +1,14 @@
+.ayrıntı{
+    display: flex;
+}
+.head{
+    text-align: center;
+}
+
+.helper{
+    display: flex;
+}
+
+.search{
+    margin-left: 30px;
+}
